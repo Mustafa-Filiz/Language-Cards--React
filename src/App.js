@@ -8,8 +8,12 @@ function App() {
       <h1>Language Cards</h1>
       <div className="container">
           <img className="logo" src={React} alt="react"/>
+          <div className="card-container">
+            <h3>Languages</h3>
+            <Card/>
+          </div>
       </div>
-      <Card/>
+
     </div>
   );
 }

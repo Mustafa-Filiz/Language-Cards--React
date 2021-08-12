@@ -8,4 +8,6 @@ body{
     background: linear-gradient(to right, #cac531, #f3f9a7);
     width: 100%;
     height: 100vh;
+    display: flex;
+    justify-content: center;
 }
