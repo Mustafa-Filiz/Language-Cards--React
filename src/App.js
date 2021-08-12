@@ -5,7 +5,6 @@ import Card from './components/card/Card';
 function App() {
   return (
     <div className="App">
-      <h1>Language Cards</h1>
       <div className="container">
           <img className="logo" src={React} alt="react"/>
           <div className="card-container">
