@@ -4,6 +4,7 @@
     margin-bottom: 1em;
     border-radius: 10px;
     cursor: pointer;
+    transition: all 1s;
 }
 
 .card:hover{
@@ -32,4 +33,13 @@
 
 .card-title{
     text-align: center;
+}
+
+
+.list{
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    font-size: 1.3rem;
 }

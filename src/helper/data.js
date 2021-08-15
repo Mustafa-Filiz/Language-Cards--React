@@ -46,6 +46,6 @@ export const categories = [
   {
     name: "php",
     img: php,
-    options: ["BackEnd", "1995", "	Rasmus Lerdorf"],
+    options: ["BackEnd", "1995", "Rasmus Lerdorf"],
   },
 ];
