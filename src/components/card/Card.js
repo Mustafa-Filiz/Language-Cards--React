@@ -1,7 +1,6 @@
 import React from 'react';
 import { categories } from '../../helper/data';
 import './Card.css';
-// import { useState } from 'react'
 
 const Card = () => {
   const listVisibility = (e) => {
